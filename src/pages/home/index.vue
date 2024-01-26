@@ -1,9 +1,6 @@
 <template>
   <n-message-provider>
     <calendar />
-    <calendar />
-    <calendar />
-    <calendar />
   </n-message-provider>
 </template>
 

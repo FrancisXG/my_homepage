@@ -1,13 +1,11 @@
 .container {
   height: 100vh;
   overflow: hidden;
-  border: 1px solid red;
   box-sizing: border-box;
 }
 
 .container-content {
   height: 100%;
   overflow: auto;
-  border: 1px solid blue;
   box-sizing: border-box;
 }

@@ -1,13 +1,5 @@
 <template>
-  <div class="container">
-    <layout>
-      <template v-slot>
-        <div class="container-content">
-          <router-view />
-        </div>
-      </template>
-    </layout>
-  </div>
+  <layout></layout>
 </template>
 <style scoped></style>
 <script lang="ts">
